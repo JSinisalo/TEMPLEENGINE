@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"templeengine.examples.asteroids"},{"l":"templeengine.examples.puzzle"},{"l":"templeengine.src.core"}]
